@@ -1,4 +1,4 @@
-# NY-SAT-scores-analysis
+# NYC-SAT-scores-analysis
 The SAT has three sections, each of which is worth a maximum of 800 points. Colleges use the SAT to determine which students to admit. High average SAT scores are usually indicative of a good school.
 
 New York City has published data on student SAT scores by high school, along with additional demographic data sets. Over the last three missions, we combined the following data sets into a single, clean pandas dataframe:
